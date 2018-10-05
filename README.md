@@ -14,10 +14,17 @@ GeminiPDA Japanese Keyboard Remap apk
 
 ## Usage
 
+ src/ ディレクトリ以下に、Android Studio プロジェクトがそのまま保存されているのでビルド可能。
 
+ビルド済みapk(署名済み)は、以下の場所に保存済み。
+
+<pre>
+src/GeminiPDAJP/release/release/GeminiPDAJP-release.apk
+</pre>
 
 ## Install
 
+GeminiPDAJP-release.apk を Gemini PDAにインストールして、物理キーボード設定からレイアウトを選択。
 
 ## Licence
 
