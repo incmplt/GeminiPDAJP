@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <string name="app_name">Gemini PDA JP-KEY</string>
-    <string name="keyboard_layout_label">incmplt Gemini Custom Keyboard</string>
-    <string name="keyboard_layout_japanese">Gemini PDA JP Keymap</string>
-    <string name="keyboard_layout_japanese_normal">Gemini PDA JP Normal</string>
-    <string name="keyboard_layout_japanese_custom">Gemini PDA JP Custom</string>
-</resources>
